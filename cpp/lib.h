@@ -1,0 +1,15 @@
+void help();
+void version();
+void kali();
+void cli();
+void cli_a();
+void cli_b();
+void cli_c();
+void cli_d();
+void cli_e();
+void cli_f();
+void banner();
+void install();
+void install_mini();
+void install_all();
+void ndk();
